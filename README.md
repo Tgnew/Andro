@@ -28,7 +28,7 @@ sudo apt-get update
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 دوم کلون کردن بر روی سرور خود
-https://github.com/TeleSudo/TeleRedStar.git -b supergroups
+git clone https://github.com/TeleSudo/TeleRedStar.git -b supergroups
 سوم کد زیر را میزنیم
 cd TeleRedStar
 چهارم برای دسترسی داشتن به فایل لانچر دستور زیر رامیزنیم
